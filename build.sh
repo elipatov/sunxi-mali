@@ -1,6 +1,6 @@
 #!/bin/bash
 
-RELEASE=r6p0
+RELEASE=r7p0
 JOBS=$(nproc)
 BUILD_OPTS="USING_UMP=0
 	    BUILD=release
@@ -84,7 +84,7 @@ do
 	    ;;
 	r)
 	    case $OPTARG in
-		r6p0 | r6p2 | r8p1 | r9p0)
+		r6p0 | r6p2 | r7p0 | r8p1 | r9p0)
 		    RELEASE=$OPTARG
 		    ;;
 		*)

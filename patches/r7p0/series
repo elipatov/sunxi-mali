@@ -6,7 +6,7 @@
 r6p2/0006-mali-Allow-devfreq-to-run-without-power-models.patch
 0007-mali-support-building-against-4.10.patch
 0008-mali-support-building-against-4.11.patch
-r6p2/0009-mali-Fix-user-memory-domain-fault.patch
+r7p0/0009-mali-Fix-user-memory-domain-fault.patch
 0010-mali-support-building-against-4.12.patch
 r6p2/0011-mali-support-building-against-4.13.patch
 0012-mali-support-building-against-4.14.patch
